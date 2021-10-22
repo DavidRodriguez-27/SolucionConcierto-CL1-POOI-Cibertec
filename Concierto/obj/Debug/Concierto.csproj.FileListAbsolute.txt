@@ -1,0 +1,10 @@
+C:\Users\David\Desktop\Cibertec Estudios\3° Ciclo\5. Programación Orientada a Objetos\C. Examenes\CL1\SolucionConcierto\Concierto\bin\Debug\Concierto.exe.config
+C:\Users\David\Desktop\Cibertec Estudios\3° Ciclo\5. Programación Orientada a Objetos\C. Examenes\CL1\SolucionConcierto\Concierto\bin\Debug\Concierto.exe
+C:\Users\David\Desktop\Cibertec Estudios\3° Ciclo\5. Programación Orientada a Objetos\C. Examenes\CL1\SolucionConcierto\Concierto\bin\Debug\Concierto.pdb
+C:\Users\David\Desktop\Cibertec Estudios\3° Ciclo\5. Programación Orientada a Objetos\C. Examenes\CL1\SolucionConcierto\Concierto\obj\Debug\Concierto.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Cibertec Estudios\3° Ciclo\5. Programación Orientada a Objetos\C. Examenes\CL1\SolucionConcierto\Concierto\obj\Debug\Concierto.Properties.Resources.resources
+C:\Users\David\Desktop\Cibertec Estudios\3° Ciclo\5. Programación Orientada a Objetos\C. Examenes\CL1\SolucionConcierto\Concierto\obj\Debug\Concierto.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Cibertec Estudios\3° Ciclo\5. Programación Orientada a Objetos\C. Examenes\CL1\SolucionConcierto\Concierto\obj\Debug\Concierto.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Cibertec Estudios\3° Ciclo\5. Programación Orientada a Objetos\C. Examenes\CL1\SolucionConcierto\Concierto\obj\Debug\Concierto.exe
+C:\Users\David\Desktop\Cibertec Estudios\3° Ciclo\5. Programación Orientada a Objetos\C. Examenes\CL1\SolucionConcierto\Concierto\obj\Debug\Concierto.pdb
+C:\Users\David\Desktop\Cibertec Estudios\3° Ciclo\5. Programación Orientada a Objetos\C. Examenes\CL1\SolucionConcierto\Concierto\obj\Debug\Concierto.frmConcierto.resources
